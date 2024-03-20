@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+    padding-top: 15px;
+}
+.main{
+    display: flex;
+    margin-left: 50px;
+}
+input[type="text"] {
+    height: 40px;
+    border-radius: 15px;
+    padding-left: 10px;
+   
+}
+select {
+    height: 30px;
+}
+label {
+    padding-top: 10px;
+    text-align: left;
+}
+td {
+    border: 2px solid black;
+}
+th {
+    border: 2px solid black;
+}
